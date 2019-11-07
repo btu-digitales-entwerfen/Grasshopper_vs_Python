@@ -20,3 +20,4 @@ This is a 	repository of the Grasshopper vs Python course. Here will be stored a
 * Python interpreter (https://www.python.org/downloads/)
 * Visual Studio Code (https://code.visualstudio.com/)
 * Python plugin for VS Code (https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
